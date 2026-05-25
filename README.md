@@ -14,7 +14,8 @@ If you find the awesome paper/code/dataset or have some suggestions, please cont
 
 [[MEE]](https://doi.org/10.1111/2041-210X.14503) FOR-species20K: Benchmarking tree species classification from proximally sensed laser scanning data: Introducing the FOR-species20K dataset  
 
-[[SD]](https://www.nature.com/articles/s41597-025-06421-7) BioDiv-3DTrees: A large dataset of labelled single tree point clouds, QSMs and tree graphs
+[[SD]](https://www.nature.com/articles/s41597-025-06421-7) BioDiv-3DTrees: A large dataset of labelled single tree point clouds, QSMs and tree graphs<br>
+[[Forestry]](https://doi.org/10.1093/forestry/cpaf062) SegmentedForests: a labelled dataset of terrestrial LiDAR point clouds for semantic segmentation of forests<br>
 
 
 2024:
