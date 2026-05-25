@@ -16,5 +16,9 @@ If you find the awesome paper/code/dataset or have some suggestions, please cont
 
 [[SD]](https://www.nature.com/articles/s41597-025-06421-7) BioDiv-3DTrees: A large dataset of labelled single tree point clouds, QSMs and tree graphs
 
-[[SD]](https://www.nature.com/articles/s41597-025-06421-7) BioDiv-3DTrees: A large dataset of labelled single tree point clouds, QSMs and tree graphs
+
+2024:
+
+[[JAG]](https://www.sciencedirect.com/science/article/pii/S1569843224002577) TreeNet3D : A large scale tree benchmark for 3D tree modeling, carbon storage estimation and tree segmentation 
+
 
