@@ -21,4 +21,9 @@ If you find the awesome paper/code/dataset or have some suggestions, please cont
 
 [[JAG]](https://www.sciencedirect.com/science/article/pii/S1569843224002577) TreeNet3D : A large scale tree benchmark for 3D tree modeling, carbon storage estimation and tree segmentation 
 
+[[SD]](https://www.nature.com/articles/s41597-023-02873-x) TreeML-Data: A multilayered urban tree dataset of point clouds, quantitative structure and graph models
+
+[[SD]](https://www.nature.com/articles/s41597-024-04143-w) LiPheStream - A 18-month high spatiotemporal resolution point cloud time series of Boreal trees from Finland
+
+
 
