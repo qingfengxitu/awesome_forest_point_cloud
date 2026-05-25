@@ -5,7 +5,7 @@ If you find the awesome paper/code/dataset or have some suggestions, please cont
 
 2026:
 
-[[RSE]](https://www.sciencedirect.com/science/article/abs/pii/S0034425726002063) Boreal3D: A synthetic data generation framework for deep learning-based LiDAR forest structure analysis [project](https://boreal3d.github.io/)
+[[RSE]](https://www.sciencedirect.com/science/article/abs/pii/S0034425726002063) Boreal3D: A synthetic data generation framework for deep learning-based LiDAR forest structure analysis [project](https://boreal3d.github.io/) 
 
 
 2025:
