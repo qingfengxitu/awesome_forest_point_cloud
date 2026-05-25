@@ -7,7 +7,14 @@ If you find the awesome paper/code/dataset or have some suggestions, please cont
 
 [[RSE]](https://www.sciencedirect.com/science/article/abs/pii/S0034425726002063) Boreal3D: A synthetic data generation framework for deep learning-based LiDAR forest structure analysis [project](https://boreal3d.github.io/) 
 
+[[ESSD]](https://essd.copernicus.org/articles/18/1243/2026/essd-18-1243-2026.html) ForestScan: a unique multiscale dataset of tropical forest structure across 3 continents including terrestrial, UAV and airborne LiDAR and in-situ forest census data
+
 
 2025:
 
 [[MEE]](https://doi.org/10.1111/2041-210X.14503) FOR-species20K: Benchmarking tree species classification from proximally sensed laser scanning data: Introducing the FOR-species20K dataset  
+
+[[SD]](https://www.nature.com/articles/s41597-025-06421-7) BioDiv-3DTrees: A large dataset of labelled single tree point clouds, QSMs and tree graphs
+
+[[SD]](https://www.nature.com/articles/s41597-025-06421-7) BioDiv-3DTrees: A large dataset of labelled single tree point clouds, QSMs and tree graphs
+
