@@ -23,6 +23,7 @@ If you find the awesome paper/code/dataset or have some suggestions, please cont
 [[SD]](https://www.nature.com/articles/s41597-024-04143-w) **LiPheStream** - A 18-month high spatiotemporal resolution point cloud time series of Boreal trees from Finland<br>
 
 ## 2) Individual Tree Segmentation
-**2023**
+**2023**:
+
 [[MEE]](https://doi.org/10.1111/2041-210X.14233) **TLS2trees**: A scalable tree segmentation pipeline for TLS data<br>
 
