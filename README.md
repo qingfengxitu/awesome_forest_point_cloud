@@ -3,7 +3,7 @@
 for anyone who wants to do research about 3D point cloud in forests.
 If you find the awesome paper/code/dataset or have some suggestions, please contact liujingxitu@gmail.com. Thanks for your valuable contribution! 
 
-## Point Cloud Dataset 
+## 1) Point Cloud Dataset 
 **2026**:
 
 [[RSE]](https://www.sciencedirect.com/science/article/abs/pii/S0034425726002063) **Boreal3D**: A synthetic data generation framework for deep learning-based LiDAR forest structure analysis [project](https://boreal3d.github.io/)<br>
@@ -22,7 +22,7 @@ If you find the awesome paper/code/dataset or have some suggestions, please cont
 [[SD]](https://www.nature.com/articles/s41597-023-02873-x) **TreeML-Data**: A multilayered urban tree dataset of point clouds, quantitative structure and graph models [project](https://github.com/hadi-yazdi/TreeML-Data)<br>
 [[SD]](https://www.nature.com/articles/s41597-024-04143-w) **LiPheStream** - A 18-month high spatiotemporal resolution point cloud time series of Boreal trees from Finland<br>
 
-## Individual Tree Segmentation
+## 2) Individual Tree Segmentation
 **2023**
 [[MEE]](https://doi.org/10.1111/2041-210X.14233) **TLS2trees**: A scalable tree segmentation pipeline for TLS data<br>
 
