@@ -28,3 +28,6 @@ If you find the awesome paper/code/dataset or have some suggestions, please cont
 **2023**:<br>
 [[MEE]](https://doi.org/10.1111/2041-210X.14233) **TLS2trees**: A scalable tree segmentation pipeline for TLS data [[code]](https://zenodo.org/records/8406668)  $${\color{lightgreen}TLS}$$ <br>
 
+## 3) Leaf-wood separation 
+**2019**:<br>
+[[MEE]](https://doi.org/10.1111/2041-210X.13342)  **LeWoS**: A universal leaf-wood classification method to facilitate the 3D modelling of large tropical trees using terrestrial LiDAR [[code]](https://github.com/dwang520/LeWoS) $${\color{lightgreen}TLS}$$ <br>
