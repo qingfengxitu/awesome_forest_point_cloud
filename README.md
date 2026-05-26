@@ -23,8 +23,8 @@ If you find the awesome paper/code/dataset or have some suggestions, please cont
 
 **2024**:<br>
 
-$${\color{red}Red}$$
-[[EI]](https://doi.org/10.1016/j.ecoinf.2024.102888) **TreeLearn**: A deep learning method for segmenting individual trees from ground-based LiDAR forest point clouds [[code]](https://github.com/ecker-lab/TreeLearn)  <font color="red"> TLS </font>   <br>
+$${\color{red}TLS}$$
+[[EI]](https://doi.org/10.1016/j.ecoinf.2024.102888) **TreeLearn**: A deep learning method for segmenting individual trees from ground-based LiDAR forest point clouds [[code]](https://github.com/ecker-lab/TreeLearn)  $${\color{red}TLS}$$  <br>
 [[RSE]](https://www.sciencedirect.com/science/article/pii/S0034425724003936) **SegmentAnyTree**: A sensor and platform agnostic deep learning model for tree segmentation using laser scanning data <font color="pink"> ULS </font><br>
 
 **2023**:<br>
