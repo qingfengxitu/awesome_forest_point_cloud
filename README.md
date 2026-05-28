@@ -12,7 +12,7 @@ If you find the awesome paper/code/dataset or have some suggestions, please cont
 [[MEE]](https://doi.org/10.1111/2041-210X.14503) **FOR-species20K**: Benchmarking tree species classification from proximally sensed laser scanning data: Introducing the FOR-species20K dataset <br>
 [[SD]](https://www.nature.com/articles/s41597-025-06421-7) **BioDiv-3DTrees**: A large dataset of labelled single tree point clouds, QSMs and tree graphs [[dataset]](https://data.goettingen-research-online.de/dataset.xhtml?persistentId=doi:10.25625/8PB1IF) [[code]](https://gitlab.gwdg.de/griese1/biodiv-3dtrees/)<br>
 [[Forestry]](https://doi.org/10.1093/forestry/cpaf062) **SegmentedForests**: a labelled dataset of terrestrial LiDAR point clouds for semantic segmentation of forests [dataset](https://zenodo.org/records/17396681)<br>
-
+[[TGRS]](https://ieeexplore.ieee.org/document/11000290) Benchmarking ULS-TLS point cloud registration algorithms in forest environments [[dataset]](https://huggingface.co/datasets/lewisciro66/ForestReg) <br>
 
 **2024**:<br>
 [[JAG]](https://www.sciencedirect.com/science/article/pii/S1569843224002577) **TreeNet3D**: A large scale tree benchmark for 3D tree modeling, carbon storage estimation and tree segmentation<br> 
