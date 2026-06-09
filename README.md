@@ -20,6 +20,8 @@ If you find the awesome paper/code/dataset or have some suggestions, please cont
 [[SD]](https://www.nature.com/articles/s41597-024-04143-w) **LiPheStream** - A 18-month high spatiotemporal resolution point cloud time series of Boreal trees from Finland<br>
 
 ## 2) Individual Tree Segmentation
+**2026**:<br>
+[[ISPRS]](https://doi.org/10.1016/j.isprsjprs.2026.04.021) **FGI-EMIT**: Benchmarking individual tree segmentation using multispectral airborne laser scanning data: The FGI-EMIT dataset [[dataset]](https://zenodo.org/records/19351234)  $${\color{red}ALS}$$  <br>
 
 **2025**:<br>
 **TreeX**: Unsupervised Tree Instance Segmentation in Dense Forest Point Clouds [[code]](https://github.com/ai4trees/pointtree)  <br>
